@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: com.insightfullogic.egvvmplugin
+OpenIDE-Module-Install: com/insightfullogic/egvvmplugin/Installer.class
+OpenIDE-Module-Localizing-Bundle: com/insightfullogic/egvvmplugin/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
